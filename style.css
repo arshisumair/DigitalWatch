@@ -1,0 +1,27 @@
+*{
+    margin:0 ;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    
+    background: linear-gradient(to bottom, #1e3c72, #2a5298);
+     align-items: center;
+     display: flex;
+     justify-content: center;
+     height:100vh ;
+     font-family: Arial,sans-serif;
+     color: white;
+
+}
+
+.clock{
+    font-size: 90px;
+    font-weight: bold;
+    background-color:rgb(17, 18, 78);
+    padding: 20px 40px;
+    border-radius:15px ;
+    box-shadow: 0 5px 15px rgb (0, 0 , 0  , 0.5);
+}
+
